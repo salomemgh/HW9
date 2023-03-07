@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+.h4{
+    font-weight: bolder;
+}
+.container1{
+    text-align: center;
+}
+.container3{
+    float: right;
+}
+.container4{
+    width: 100%;
+    float: left;
+}
